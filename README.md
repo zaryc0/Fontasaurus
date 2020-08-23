@@ -21,8 +21,10 @@ do not edit the "local_settings.txt" as this could corrupt the file structure if
 [![AppIcon](/objects/dinosaur.png)](https://www.flaticon.com/free-icon/fossil_2936483)
 
 
-<div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Contact
 for any queries or issues contact me on:
 * Discord : zaryco#7757
+* Gmail : applepiproductions0@gmail.com
+* GitHub  : zaryc0
