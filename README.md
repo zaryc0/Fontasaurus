@@ -11,3 +11,6 @@ simply copy all of your TTF/OTF files into a source folder if you dont have one 
 
 once you have entered youre own filePaths then it will use those as the defaults from now on 
 alternatively you can reset the defaults by entering RESET in the Menu screen
+
+in order to run the executable from the desktop simply copy or drag the  "Drag this to desktop" item to the desktop 
+
