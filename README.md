@@ -18,8 +18,9 @@ in order to run the executable from the desktop simply copy or drag the  "Drag t
 do not edit the "local_settings.txt" as this could corrupt the file structure if you do edit this and it stops recognising the file paths enter "RESET" into the menu screen to reset this file to factory state
 
 ## Attributions
-![AppIcon](/images/logo.png)
-Format: ![Alt Text](url)
+![AppIcon](/objects/dinosaur.png)
+Format: ![Alt Text](https://www.flaticon.com/free-icon/fossil_2936483)
+
 <div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Contact
